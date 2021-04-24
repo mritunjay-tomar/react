@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    width: 90%;
+    border-radius: 7px;
+    height: 3vh;
+}
+
+button {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
